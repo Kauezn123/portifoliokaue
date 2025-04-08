@@ -1,0 +1,8 @@
+{
+  "pages\\index.tsx -> @/components/Hero": {
+    "id": "pages\\index.tsx -> @/components/Hero",
+    "files": [
+      "static/chunks/src_components_Hero_tsx.js"
+    ]
+  }
+}
