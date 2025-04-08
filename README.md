@@ -72,8 +72,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Seu Nome - [GitHub](https://github.com/seu-usuario) - [LinkedIn](https://linkedin.com/in/seu-usuario)
+Kauê DEV - [GitHub](https://github.com/seu-usuario) - [LinkedIn](https://linkedin.com/in/seu-usuario)
 
 ---
 
-⭐️ De [Seu Nome](https://github.com/seu-usuario) 
+⭐️ De [kaue](https://github.com/seu-usuario) 
